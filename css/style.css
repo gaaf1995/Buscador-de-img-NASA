@@ -1,0 +1,11 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+.card-img-top {
+    height: 10rem;
+}
+
+.card-body {
+  height: 12rem;
+}
